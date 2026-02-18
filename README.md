@@ -1,8 +1,8 @@
-# Assignment 1: Multi-Layer Perceptron for Image Classification
+# Assignment 1: Multi-Layer Perceptron for Image Classification 
 
-## Overview
+## Aim
 
-This assignment requires you to implement a neural network from scratch using only NumPy. You will build all components including layers, activations, optimizers, and loss functions, then train your network on MNIST or Fashion-MNIST datasets.
+To implement a neural network from scratch using only NumPy. The network is trained on MNIST or Fashion-MNIST datasets.
 
 ## Learning Objectives
 
@@ -13,10 +13,3 @@ This assignment requires you to implement a neural network from scratch using on
 - Train and evaluate neural networks
 - Log experiments using Weights & Biases
 
-## Contact
-
-For questions or issues, please contact the teaching staff or post on the course forum.
-
----
-
-Good luck with your implementation!
