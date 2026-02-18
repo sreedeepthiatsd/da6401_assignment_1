@@ -2,7 +2,7 @@
 
 ## Aim
 
-To implement a neural network from scratch using only NumPy. The network is trained on MNIST or Fashion-MNIST datasets.
+To implement a Multi-Layer Perceptron from scratch using only NumPy. The network is trained on MNIST or Fashion-MNIST datasets.
 
 ## Learning Objectives
 
