@@ -15,7 +15,11 @@ To implement a Multi-Layer Perceptron from scratch using only NumPy. The network
 
 ## Links
 Github repo: \
-Wandb report:
+Wandb report: \
+The links contain the code and weights and biases report of assignment 1
+## Key features
+**Datasets**
+- Supports both MNIST and Fashion MNIST datasets
+- Data is normalized and split into training and validation sets.
 
-#
 
