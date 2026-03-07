@@ -14,8 +14,8 @@ To implement a Multi-Layer Perceptron from scratch using only NumPy. The network
 - Log experiments using Weights & Biases
 
 ## Links
-Github repo: \
-Wandb report: \
+Github repo: https://github.com/sreedeepthiatsd/da6401_assignment_1 \
+Wandb report: https://api.wandb.ai/links/ee24d044-indian-institute-of-technology-madras/5zw00mck \
 The links contain the code and weights and biases report of assignment 1
 ## Key features
 1. **Datasets**
