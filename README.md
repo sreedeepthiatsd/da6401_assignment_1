@@ -18,10 +18,10 @@ Github repo: \
 Wandb report: \
 The links contain the code and weights and biases report of assignment 1
 ## Key features
-**Datasets**
+1. **Datasets**
 - Supports both MNIST and Fashion MNIST datasets
-- Data is normalized and split into training and validation sets.\
-**Activation functions**
+- Data is normalized and split into training and validation sets.  
+2. **Activation functions**
   - ReLU
   - Tanh
   - Sigmoid \
