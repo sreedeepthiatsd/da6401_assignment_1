@@ -1,0 +1,36 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "CPython 3.12.4",
+  "startedAt":  "2026-03-06T07:01:43.168939Z",
+  "args":  [
+    "--optimizer",
+    "rmsprop",
+    "--hidden_size",
+    "128",
+    "128",
+    "128",
+    "--activation",
+    "tanh"
+  ],
+  "program":  "-m src.train",
+  "git":  {
+    "remote":  "https://github.com/sreedeepthiatsd/da6401_assignment_1",
+    "commit":  "dc84977f2f993e478bb932f0c5a4725707d72fb5"
+  },
+  "email":  "ee24d044@smail.iitm.ac.in",
+  "root":  "C:\\Users\\annad\\DL\\da6401_assignment_1",
+  "host":  "Sreedeepthi",
+  "executable":  "C:\\Users\\annad\\DL\\da6401_assignment_1\\venv\\Scripts\\python.exe",
+  "cpu_count":  8,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "509722226688",
+      "used":  "212128423936"
+    }
+  },
+  "memory":  {
+    "total":  "16857817088"
+  },
+  "writerId":  "s3fbclf83yt3e71om6pdmeu1h007pglj"
+}

@@ -1,0 +1,12 @@
+{"time":"2026-03-06T13:16:17.0750199+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-06T13:16:17.5067802+05:30","level":"INFO","msg":"stream: created new stream","id":"pyl4owjt"}
+{"time":"2026-03-06T13:16:17.5067802+05:30","level":"INFO","msg":"handler: started","stream_id":"pyl4owjt"}
+{"time":"2026-03-06T13:16:17.509076+05:30","level":"INFO","msg":"stream: started","id":"pyl4owjt"}
+{"time":"2026-03-06T13:16:17.509076+05:30","level":"INFO","msg":"writer: started","stream_id":"pyl4owjt"}
+{"time":"2026-03-06T13:16:17.5098273+05:30","level":"INFO","msg":"sender: started","stream_id":"pyl4owjt"}
+{"time":"2026-03-06T13:18:21.8517706+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-06T13:18:22.5583296+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-06T13:18:22.5640901+05:30","level":"INFO","msg":"stream: closing","id":"pyl4owjt"}
+{"time":"2026-03-06T13:18:22.5640901+05:30","level":"INFO","msg":"handler: closed","stream_id":"pyl4owjt"}
+{"time":"2026-03-06T13:18:22.5653378+05:30","level":"INFO","msg":"sender: closed","stream_id":"pyl4owjt"}
+{"time":"2026-03-06T13:18:22.5659516+05:30","level":"INFO","msg":"stream: closed","id":"pyl4owjt"}

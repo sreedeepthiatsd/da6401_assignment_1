@@ -1,0 +1,13 @@
+2026-03-05 10:49:55,108 INFO    MainThread:2420 [wandb_setup.py:_flush():81] Current SDK version is 0.25.0
+2026-03-05 10:49:55,109 INFO    MainThread:2420 [wandb_setup.py:_flush():81] Configure stats pid to 2420
+2026-03-05 10:49:55,109 INFO    MainThread:2420 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2026-03-05 10:49:55,110 INFO    MainThread:2420 [wandb_init.py:setup_run_log_directory():717] Logging user logs to C:\Users\annad\DL\da6401_assignment_1\wandb\run-20260305_104955-1msifqnh\logs\debug.log
+2026-03-05 10:49:55,110 INFO    MainThread:2420 [wandb_init.py:setup_run_log_directory():718] Logging internal logs to C:\Users\annad\DL\da6401_assignment_1\wandb\run-20260305_104955-1msifqnh\logs\debug-internal.log
+2026-03-05 10:49:55,113 INFO    MainThread:2420 [wandb_init.py:init():844] calling init triggers
+2026-03-05 10:49:55,114 INFO    MainThread:2420 [wandb_init.py:init():849] wandb.init called with sweep_config: {}
+config: {'dataset': 'mnist', 'epochs': 5, 'batch_size': 32, 'learning_rate': 0.001, 'optimizer': 'momentum', 'hidden_size': [128], 'num_layers': 3, 'activation': 'relu', 'loss': 'cross_entropy', 'weight_init': 'xavier', 'model_save_path': 'models/best_model.npy', 'wandb_project': 'dl_assignment_1', 'wandb_entity': 'ee24d044', '_wandb': {}}
+2026-03-05 10:49:55,114 INFO    MainThread:2420 [wandb_init.py:init():892] starting backend
+2026-03-05 10:49:58,036 INFO    MainThread:2420 [wandb_init.py:init():895] sending inform_init request
+2026-03-05 10:49:58,091 INFO    MainThread:2420 [wandb_init.py:init():903] backend started and connected
+2026-03-05 10:49:58,209 INFO    MainThread:2420 [wandb_init.py:init():973] updated telemetry
+2026-03-05 10:49:58,335 INFO    MainThread:2420 [wandb_init.py:init():997] communicating run to backend with 90.0 second timeout

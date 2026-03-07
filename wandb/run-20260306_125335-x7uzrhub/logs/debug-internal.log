@@ -1,0 +1,12 @@
+{"time":"2026-03-06T12:53:38.0153875+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-06T12:53:38.5156856+05:30","level":"INFO","msg":"stream: created new stream","id":"x7uzrhub"}
+{"time":"2026-03-06T12:53:38.5156856+05:30","level":"INFO","msg":"handler: started","stream_id":"x7uzrhub"}
+{"time":"2026-03-06T12:53:38.5200096+05:30","level":"INFO","msg":"stream: started","id":"x7uzrhub"}
+{"time":"2026-03-06T12:53:38.5207981+05:30","level":"INFO","msg":"writer: started","stream_id":"x7uzrhub"}
+{"time":"2026-03-06T12:53:38.5207981+05:30","level":"INFO","msg":"sender: started","stream_id":"x7uzrhub"}
+{"time":"2026-03-06T13:12:50.2513789+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-06T13:12:50.73957+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-06T13:12:50.7543979+05:30","level":"INFO","msg":"stream: closing","id":"x7uzrhub"}
+{"time":"2026-03-06T13:12:50.7543979+05:30","level":"INFO","msg":"handler: closed","stream_id":"x7uzrhub"}
+{"time":"2026-03-06T13:12:50.7549123+05:30","level":"INFO","msg":"sender: closed","stream_id":"x7uzrhub"}
+{"time":"2026-03-06T13:12:50.7549123+05:30","level":"INFO","msg":"stream: closed","id":"x7uzrhub"}

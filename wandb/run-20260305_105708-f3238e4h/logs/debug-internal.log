@@ -1,0 +1,16 @@
+{"time":"2026-03-05T10:57:11.1691203+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-05T10:57:11.6320791+05:30","level":"INFO","msg":"stream: created new stream","id":"f3238e4h"}
+{"time":"2026-03-05T10:57:11.6326196+05:30","level":"INFO","msg":"handler: started","stream_id":"f3238e4h"}
+{"time":"2026-03-05T10:57:11.6357996+05:30","level":"INFO","msg":"stream: started","id":"f3238e4h"}
+{"time":"2026-03-05T10:57:11.6357996+05:30","level":"INFO","msg":"writer: started","stream_id":"f3238e4h"}
+{"time":"2026-03-05T10:57:11.6357996+05:30","level":"INFO","msg":"sender: started","stream_id":"f3238e4h"}
+{"time":"2026-03-05T10:57:11.9012902+05:30","level":"ERROR","msg":"api: HTTP error","status":403,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2026-03-05T10:57:11.9016885+05:30","level":"ERROR","msg":"runupserter: failed to init run","error":"returned error 403: {\"data\":{\"upsertBucket\":null},\"errors\":[{\"message\":\"Personal entities are disabled, please log to a different team\",\"path\":[\"upsertBucket\"],\"extensions\":{\"code\":\"PERMISSION_ERROR\"}}]}"}
+{"time":"2026-03-05T10:57:11.9413483+05:30","level":"INFO","msg":"stream: closing","id":"f3238e4h"}
+{"time":"2026-03-05T10:57:11.9459405+05:30","level":"ERROR","msg":"sender: uploadConfigFile: runhandle: run not yet initialized"}
+{"time":"2026-03-05T10:57:11.9483684+05:30","level":"ERROR","msg":"runfiles: runhandle: run not yet initialized"}
+{"time":"2026-03-05T10:57:11.9494837+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-05T10:57:11.9504819+05:30","level":"INFO","msg":"handler: closed","stream_id":"f3238e4h"}
+{"time":"2026-03-05T10:57:11.9512923+05:30","level":"INFO","msg":"sender: closed","stream_id":"f3238e4h"}
+{"time":"2026-03-05T10:57:11.9512923+05:30","level":"INFO","msg":"stream: closed","id":"f3238e4h"}
+{"time":"2026-03-05T10:57:11.9599792+05:30","level":"ERROR","msg":"stream: runURL: runhandle: run not yet initialized"}

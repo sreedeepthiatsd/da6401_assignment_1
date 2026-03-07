@@ -1,0 +1,85 @@
+_wandb:
+    value:
+        cli_version: 0.25.0
+        e:
+            7xjt4s83hn3t1dy30n9fxz5t9jhgr6fu:
+                args:
+                    - --epochs
+                    - "10"
+                    - --optimizer
+                    - rmsprop
+                    - --activation
+                    - tanh
+                    - --hidden_size
+                    - "128"
+                    - --learning_rate
+                    - "0.01"
+                cpu_count: 8
+                cpu_count_logical: 12
+                disk:
+                    /:
+                        total: "509722226688"
+                        used: "212894543872"
+                email: ee24d044@smail.iitm.ac.in
+                executable: C:\Users\annad\DL\da6401_assignment_1\venv\Scripts\python.exe
+                git:
+                    commit: dc84977f2f993e478bb932f0c5a4725707d72fb5
+                    remote: https://github.com/sreedeepthiatsd/da6401_assignment_1
+                host: Sreedeepthi
+                memory:
+                    total: "16857817088"
+                os: Windows-11-10.0.26200-SP0
+                program: -m src.train
+                python: CPython 3.12.4
+                root: C:\Users\annad\DL\da6401_assignment_1
+                startedAt: "2026-03-05T10:26:43.848933Z"
+                writerId: 7xjt4s83hn3t1dy30n9fxz5t9jhgr6fu
+        m: []
+        python_version: 3.12.4
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 53
+            "2":
+                - 2
+                - 3
+                - 5
+                - 53
+            "3":
+                - 2
+                - 16
+            "4": 3.12.4
+            "5": 0.25.0
+            "8":
+                - 3
+            "12": 0.25.0
+            "13": windows-amd64
+activation:
+    value: tanh
+batch_size:
+    value: 32
+dataset:
+    value: mnist
+epochs:
+    value: 10
+hidden_size:
+    value:
+        - 128
+learning_rate:
+    value: 0.01
+loss:
+    value: cross_entropy
+model_save_path:
+    value: models/best_model.npy
+num_layers:
+    value: 3
+optimizer:
+    value: rmsprop
+wandb_entity:
+    value: ee24d044-indian-institute-of-technology-madras
+wandb_project:
+    value: dl_assignment_1
+weight_init:
+    value: xavier

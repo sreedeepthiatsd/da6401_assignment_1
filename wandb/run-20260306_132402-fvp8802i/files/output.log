@@ -1,0 +1,85 @@
+Loading dataset....
+Creating Neural Network.....
+Start Training.....
+Evaluating Model....
+C:\Users\annad\DL\da6401_assignment_1\venv\Lib\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+New best model saved with F1: 0.07436874743241662
+Accuracy: 0.1802
+Precision: 0.05049159337585003
+Recall: 0.17903746027720763
+F1 Score: 0.07436874743241662
+Epoch 1/10, Loss: 2.1809370713752987, Test Accuracy: 0.1802
+Evaluating Model....
+C:\Users\annad\DL\da6401_assignment_1\venv\Lib\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Accuracy: 0.1958
+Precision: 0.04253112268752547
+Recall: 0.18701507362070394
+F1 Score: 0.0682240743827045
+Epoch 2/10, Loss: 1.9171848400713216, Test Accuracy: 0.1958
+Evaluating Model....
+C:\Users\annad\DL\da6401_assignment_1\venv\Lib\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Accuracy: 0.1927
+Precision: 0.03893954512332942
+Recall: 0.19193480505042484
+F1 Score: 0.06462777225585574
+Epoch 3/10, Loss: 1.7938813295507878, Test Accuracy: 0.1927
+Evaluating Model....
+C:\Users\annad\DL\da6401_assignment_1\venv\Lib\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Accuracy: 0.0974
+Precision: 0.00974
+Recall: 0.1
+F1 Score: 0.017751047931474397
+Epoch 4/10, Loss: 2.3638804185567985, Test Accuracy: 0.0974
+Evaluating Model....
+C:\Users\annad\DL\da6401_assignment_1\venv\Lib\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Accuracy: 0.101
+Precision: 0.010100000000000001
+Recall: 0.1
+F1 Score: 0.01834695731153497
+Epoch 5/10, Loss: 2.3460550959896875, Test Accuracy: 0.101
+Evaluating Model....
+C:\Users\annad\DL\da6401_assignment_1\venv\Lib\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Accuracy: 0.0982
+Precision: 0.009819999999999999
+Recall: 0.1
+F1 Score: 0.017883809870697508
+Epoch 6/10, Loss: 2.298513485354039, Test Accuracy: 0.0982
+Evaluating Model....
+C:\Users\annad\DL\da6401_assignment_1\venv\Lib\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Accuracy: 0.101
+Precision: 0.010100000000000001
+Recall: 0.1
+F1 Score: 0.01834695731153497
+Epoch 7/10, Loss: 2.3444865437718665, Test Accuracy: 0.101
+Evaluating Model....
+C:\Users\annad\DL\da6401_assignment_1\venv\Lib\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Accuracy: 0.0958
+Precision: 0.00958
+Recall: 0.1
+F1 Score: 0.01748494250775689
+Epoch 8/10, Loss: 2.2874225702274256, Test Accuracy: 0.0958
+Evaluating Model....
+C:\Users\annad\DL\da6401_assignment_1\venv\Lib\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Accuracy: 0.0974
+Precision: 0.00974
+Recall: 0.1
+F1 Score: 0.017751047931474397
+Epoch 9/10, Loss: 2.3190449512977316, Test Accuracy: 0.0974
+Evaluating Model....
+C:\Users\annad\DL\da6401_assignment_1\venv\Lib\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Accuracy: 0.1028
+Precision: 0.010280000000000001
+Recall: 0.1
+F1 Score: 0.018643453028654333
+Epoch 10/10, Loss: 2.359978653461378, Test Accuracy: 0.1028
+Training complete!

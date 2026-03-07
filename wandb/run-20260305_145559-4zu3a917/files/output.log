@@ -1,0 +1,14 @@
+Loading dataset....
+Creating Neural Network.....
+Start Training.....
+Epoch 1/10, Loss: 0.009018777939774968, Test Accuracy: 0.9526
+Epoch 2/10, Loss: 0.006036443447794821, Test Accuracy: 0.963
+Epoch 3/10, Loss: 0.00752475055048038, Test Accuracy: 0.966
+Epoch 4/10, Loss: 0.00401329989437415, Test Accuracy: 0.9668
+Epoch 5/10, Loss: 0.0021668229472745445, Test Accuracy: 0.9698
+Epoch 6/10, Loss: 0.0013535008324274081, Test Accuracy: 0.9713
+Epoch 7/10, Loss: 0.0008214229792286908, Test Accuracy: 0.9697
+Epoch 8/10, Loss: 0.0007330887910076042, Test Accuracy: 0.9708
+Epoch 9/10, Loss: 0.0005255335904338649, Test Accuracy: 0.9725
+Epoch 10/10, Loss: 0.0005576883001855281, Test Accuracy: 0.9726
+Training complete!

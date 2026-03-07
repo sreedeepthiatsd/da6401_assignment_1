@@ -1,0 +1,24 @@
+2026-03-07 13:19:18,905 INFO    MainThread:25204 [wandb_setup.py:_flush():81] Current SDK version is 0.25.0
+2026-03-07 13:19:18,905 INFO    MainThread:25204 [wandb_setup.py:_flush():81] Configure stats pid to 25204
+2026-03-07 13:19:18,905 INFO    MainThread:25204 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2026-03-07 13:19:18,906 INFO    MainThread:25204 [wandb_init.py:setup_run_log_directory():717] Logging user logs to C:\Users\annad\DL\da6401_assignment_1\wandb\run-20260307_131918-pawt1ujt\logs\debug.log
+2026-03-07 13:19:18,906 INFO    MainThread:25204 [wandb_init.py:setup_run_log_directory():718] Logging internal logs to C:\Users\annad\DL\da6401_assignment_1\wandb\run-20260307_131918-pawt1ujt\logs\debug-internal.log
+2026-03-07 13:19:18,907 INFO    MainThread:25204 [wandb_init.py:init():844] calling init triggers
+2026-03-07 13:19:18,907 INFO    MainThread:25204 [wandb_init.py:init():849] wandb.init called with sweep_config: {}
+config: {'dataset': 'mnist', 'epochs': 10, 'batch_size': 32, 'learning_rate': 0.001, 'optimizer': 'rmsprop', 'hidden_size': [128, 128, 128], 'num_layers': 3, 'activation': 'tanh', 'loss': 'cross_entropy', 'weight_init': 'xavier', 'model_save_path': 'models/best_model.npy', 'wandb_project': 'dl_assignment_1', 'wandb_entity': 'ee24d044-indian-institute-of-technology-madras', '_wandb': {}}
+2026-03-07 13:19:18,907 INFO    MainThread:25204 [wandb_init.py:init():892] starting backend
+2026-03-07 13:19:21,250 INFO    MainThread:25204 [wandb_init.py:init():895] sending inform_init request
+2026-03-07 13:19:21,299 INFO    MainThread:25204 [wandb_init.py:init():903] backend started and connected
+2026-03-07 13:19:21,348 INFO    MainThread:25204 [wandb_init.py:init():973] updated telemetry
+2026-03-07 13:19:21,438 INFO    MainThread:25204 [wandb_init.py:init():997] communicating run to backend with 90.0 second timeout
+2026-03-07 13:19:22,266 INFO    MainThread:25204 [wandb_init.py:init():1042] starting run threads in backend
+2026-03-07 13:19:22,358 INFO    MainThread:25204 [wandb_run.py:_console_start():2524] atexit reg
+2026-03-07 13:19:22,358 INFO    MainThread:25204 [wandb_run.py:_redirect():2373] redirect: wrap_raw
+2026-03-07 13:19:22,358 INFO    MainThread:25204 [wandb_run.py:_redirect():2442] Wrapping output streams.
+2026-03-07 13:19:22,358 INFO    MainThread:25204 [wandb_run.py:_redirect():2465] Redirects installed.
+2026-03-07 13:19:22,363 INFO    MainThread:25204 [wandb_init.py:init():1082] run started, returning control to user process
+2026-03-07 13:32:09,839 INFO    MainThread:25204 [wandb_run.py:_finish():2291] finishing run ee24d044-indian-institute-of-technology-madras/dl_assignment_1/pawt1ujt
+2026-03-07 13:32:09,840 INFO    MainThread:25204 [wandb_run.py:_atexit_cleanup():2490] got exitcode: 0
+2026-03-07 13:32:09,842 INFO    MainThread:25204 [wandb_run.py:_restore():2472] restore
+2026-03-07 13:32:09,842 INFO    MainThread:25204 [wandb_run.py:_restore():2478] restore done
+2026-03-07 13:32:11,437 INFO    MainThread:25204 [wandb_run.py:_footer_sync_info():3868] logging synced files

@@ -1,0 +1,19 @@
+{
+    "dataset": "mnist",
+    "epochs": 10,
+    "batch_size": 32,
+    "learning_rate": 0.001,
+    "optimizer": "rmsprop",
+    "hidden_size": [
+        128,
+        128,
+        128
+    ],
+    "num_layers": 3,
+    "activation": "tanh",
+    "loss": "mse",
+    "weight_init": "xavier",
+    "model_save_path": "models/best_model.npy",
+    "wandb_project": "dl_assignment_1",
+    "wandb_entity": "ee24d044-indian-institute-of-technology-madras"
+}

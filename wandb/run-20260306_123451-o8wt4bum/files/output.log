@@ -1,0 +1,73 @@
+Loading dataset....
+Creating Neural Network.....
+Start Training.....
+Evaluating Model....
+New best model saved with F1: 0.9317316602416007
+Accuracy: 0.9327
+Precision: 0.9317953160225084
+Recall: 0.9321906374136905
+F1 Score: 0.9317316602416007
+Epoch 1/10, Loss: 0.27314113057689005, Test Accuracy: 0.9327
+Evaluating Model....
+New best model saved with F1: 0.950474529593024
+Accuracy: 0.9508
+Precision: 0.9508691510219618
+Recall: 0.9505819407028155
+F1 Score: 0.950474529593024
+Epoch 2/10, Loss: 0.1286121789957794, Test Accuracy: 0.9508
+Evaluating Model....
+New best model saved with F1: 0.9585884160994678
+Accuracy: 0.9589
+Precision: 0.9594681783980965
+Recall: 0.958308349987476
+F1 Score: 0.9585884160994678
+Epoch 3/10, Loss: 0.0435970724226542, Test Accuracy: 0.9589
+Evaluating Model....
+New best model saved with F1: 0.9672939345578608
+Accuracy: 0.9676
+Precision: 0.9672624305886398
+Recall: 0.9674886902263934
+F1 Score: 0.9672939345578608
+Epoch 4/10, Loss: 0.00451148969215878, Test Accuracy: 0.9676
+Evaluating Model....
+Accuracy: 0.9642
+Precision: 0.9648762279622373
+Recall: 0.9640854108259977
+F1 Score: 0.9640488125709892
+Epoch 5/10, Loss: 0.36133957702098285, Test Accuracy: 0.9642
+Evaluating Model....
+New best model saved with F1: 0.9673486578407692
+Accuracy: 0.9676
+Precision: 0.9680873498209962
+Recall: 0.9672858046023587
+F1 Score: 0.9673486578407692
+Epoch 6/10, Loss: 0.10540688082422303, Test Accuracy: 0.9676
+Evaluating Model....
+New best model saved with F1: 0.9712341252135632
+Accuracy: 0.9715
+Precision: 0.9714328791084121
+Recall: 0.9713332792784369
+F1 Score: 0.9712341252135632
+Epoch 7/10, Loss: 0.039056667337237005, Test Accuracy: 0.9715
+Evaluating Model....
+New best model saved with F1: 0.973036952667967
+Accuracy: 0.9732
+Precision: 0.9732200589974502
+Recall: 0.9730130710018992
+F1 Score: 0.973036952667967
+Epoch 8/10, Loss: 0.016386982178528575, Test Accuracy: 0.9732
+Evaluating Model....
+New best model saved with F1: 0.9732657794166413
+Accuracy: 0.9735
+Precision: 0.9734642002541365
+Recall: 0.9731502605377012
+F1 Score: 0.9732657794166413
+Epoch 9/10, Loss: 0.12737210585700584, Test Accuracy: 0.9735
+Evaluating Model....
+New best model saved with F1: 0.9745618971562475
+Accuracy: 0.9748
+Precision: 0.9746037467503681
+Recall: 0.9746465620832006
+F1 Score: 0.9745618971562475
+Epoch 10/10, Loss: 0.011097874587236246, Test Accuracy: 0.9748
+Training complete!

@@ -1,0 +1,84 @@
+Loading dataset....
+Creating Neural Network.....
+Start Training.....
+Evaluating Model....
+C:\Users\annad\DL\da6401_assignment_1\venv\Lib\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+New best model saved with F1: 0.06415470044499817
+Accuracy: 0.1271
+Precision: 0.103712759461171
+Recall: 0.13546761813829084
+F1 Score: 0.06415470044499817
+Epoch 1/10, Loss: 2.386516921419827, Test Accuracy: 0.1271
+Evaluating Model....
+C:\Users\annad\DL\da6401_assignment_1\venv\Lib\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+New best model saved with F1: 0.07638088002048433
+Accuracy: 0.1379
+Precision: 0.1356193930263391
+Recall: 0.14562665819342732
+F1 Score: 0.07638088002048433
+Epoch 2/10, Loss: 2.244947972870519, Test Accuracy: 0.1379
+Evaluating Model....
+C:\Users\annad\DL\da6401_assignment_1\venv\Lib\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+New best model saved with F1: 0.09478195476741386
+Accuracy: 0.1532
+Precision: 0.1520754701784019
+Recall: 0.15959879871839794
+F1 Score: 0.09478195476741386
+Epoch 3/10, Loss: 2.2666958322154036, Test Accuracy: 0.1532
+Evaluating Model....
+C:\Users\annad\DL\da6401_assignment_1\venv\Lib\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+New best model saved with F1: 0.11682600367798109
+Accuracy: 0.1721
+Precision: 0.1822010413654374
+Recall: 0.17678497554942746
+F1 Score: 0.11682600367798109
+Epoch 4/10, Loss: 2.2006006981235884, Test Accuracy: 0.1721
+Evaluating Model....
+C:\Users\annad\DL\da6401_assignment_1\venv\Lib\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+New best model saved with F1: 0.1392813514434509
+Accuracy: 0.1932
+Precision: 0.20593762180109873
+Recall: 0.19607445654681416
+F1 Score: 0.1392813514434509
+Epoch 5/10, Loss: 2.2456564689916734, Test Accuracy: 0.1932
+Evaluating Model....
+New best model saved with F1: 0.16286786109804077
+Accuracy: 0.2159
+Precision: 0.22468769830227048
+Recall: 0.21655800361278965
+F1 Score: 0.16286786109804077
+Epoch 6/10, Loss: 2.224798692851507, Test Accuracy: 0.2159
+Evaluating Model....
+New best model saved with F1: 0.1895992131074094
+Accuracy: 0.2408
+Precision: 0.3081394990505721
+Recall: 0.239544411787326
+F1 Score: 0.1895992131074094
+Epoch 7/10, Loss: 2.238334246279254, Test Accuracy: 0.2408
+Evaluating Model....
+New best model saved with F1: 0.2173437729044167
+Accuracy: 0.2665
+Precision: 0.33458169235398605
+Recall: 0.2638308137932611
+F1 Score: 0.2173437729044167
+Epoch 8/10, Loss: 2.1961266985527153, Test Accuracy: 0.2665
+Evaluating Model....
+New best model saved with F1: 0.24404108807563576
+Accuracy: 0.2898
+Precision: 0.3686631090780845
+Recall: 0.28606825271607994
+F1 Score: 0.24404108807563576
+Epoch 9/10, Loss: 2.161438530224729, Test Accuracy: 0.2898
+Evaluating Model....
+New best model saved with F1: 0.2758853986786726
+Accuracy: 0.3181
+Precision: 0.40608529725616666
+Recall: 0.3136202369406734
+F1 Score: 0.2758853986786726
+Epoch 10/10, Loss: 2.170541435061539, Test Accuracy: 0.3181
+Training complete!
