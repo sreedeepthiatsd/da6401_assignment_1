@@ -24,18 +24,20 @@ The links contain the code and weights and biases report of assignment 1
 2. **Activation functions**
   - ReLU
   - Tanh
-  - Sigmoid \
+  - Sigmoid 
 3. **Loss functions**
 - Categorical Cross-Entropy
-- Mean Squared Error \
+- Mean Squared Error 
 4. **Optimization Algorithms**
 - Stochastic Gradient Descent (SGD)
 - Momentum-based Gradient Descent
 - Nesterov Accelerated Gradient Descent(NAG)
-- RMSProp \
+- RMSProp 
 5. **Weight Initialization**
 - Random
 - Xavier
+6. **Weights & Biases Integration**:
+- Logs training and validation metrics for visualization.
   
 
 
