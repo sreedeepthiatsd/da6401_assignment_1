@@ -13,8 +13,8 @@ To implement a Multi-Layer Perceptron from scratch using only NumPy. The network
 - Train and evaluate neural networks
 - Log experiments using Weights & Biases
 
-# Links
-Github repo: 
+## Links
+Github repo: \
 Wandb report:
 
 #
