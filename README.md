@@ -8,7 +8,7 @@ To implement a Multi-Layer Perceptron from scratch using only NumPy. The network
 
 - Understand forward and backward propagation
 - Implement gradient computation manually
-- Implement various optimizers (SGD, Momentum, Adam, Nadam)
+- Implement various optimizers (SGD, Momentum, etc.,)
 - Work with activation functions and their derivatives
 - Train and evaluate neural networks
 - Log experiments using Weights & Biases
@@ -20,19 +20,19 @@ The links contain the code and weights and biases report of assignment 1
 ## Key features
 **Datasets**
 - Supports both MNIST and Fashion MNIST datasets
-- Data is normalized and split into training and validation sets.
+- Data is normalized and split into training and validation sets.\
 **Activation functions**
   - ReLU
   - Tanh
-  - Sigmoid
+  - Sigmoid \
 **Loss functions**
 - Categorical Cross-Entropy
-- Mean Squared Error
+- Mean Squared Error \
 **Optimization Algorithms**
 - Stochastic Gradient Descent (SGD)
 - Momentum-based Gradient Descent
 - Nesterov Accelerated Gradient Descent(NAG)
-- RMSProp
+- RMSProp \
 **Weight Initialization**
 - Random
 - Xavier
