@@ -21,5 +21,21 @@ The links contain the code and weights and biases report of assignment 1
 **Datasets**
 - Supports both MNIST and Fashion MNIST datasets
 - Data is normalized and split into training and validation sets.
+**Activation functions**
+  - ReLU
+  - Tanh
+  - Sigmoid
+**Loss functions**
+- Categorical Cross-Entropy
+- Mean Squared Error
+**Optimization Algorithms**
+- Stochastic Gradient Descent (SGD)
+- Momentum-based Gradient Descent
+- Nesterov Accelerated Gradient Descent(NAG)
+- RMSProp
+**Weight Initialization**
+- Random
+- Xavier
+- 
 
 
